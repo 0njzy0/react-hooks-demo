@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Hooks Demo With Typescript
+
+项目利用**create-react-app**创建
+
+```bash
+npx create-react-app react-hooks-demo --template typescript
+```
 
 ## Available Scripts
 
